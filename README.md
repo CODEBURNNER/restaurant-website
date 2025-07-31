@@ -4,14 +4,6 @@ Welcome to the official website for **Chaska Restaurant**, a modern and stylish 
 
 🌐 **Live Demo**: [chaska-website.vercel.app](https://chaska-website.vercel.app)
 
----
-
-## 📸 Preview
-
-![Chaska Website Screenshot](https://chaska-website.vercel.app/img/banner.jpg) <!-- Update with actual image path -->
-
----
-
 ## 🚀 Features
 
 - 🎨 Responsive design with modern HTML/CSS
